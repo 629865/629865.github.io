@@ -1,7 +1,17 @@
 html, body {
+  color: blue;
   margin: 0;
   padding: 0;
 }
+h3 {
+  color: yellow;
+}
 canvas {
-  display: block;
+  display: block; 
+}
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  fill(255, 204, 100);
 }
